@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Guys👋, i'm Lutfiar Rahman
 
 <!--
 **lutfi1506/lutfi1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am currently studying at SMK Negeri 1 Kadipaten.
+- 🌱 I’m diving deep into the [**React.js**](https://react.dev) library to build dynamic and interactive web applications.
+- 🚀 Exploring new technologies to expand my skill set every day.
+- 🎯 Passionate about creating impactful projects and solving real-world problems.
